@@ -29,26 +29,13 @@ Always exploring new technologies and improving development workflows.
 
 ---
 
-## GitHub Stats
+## Contributions  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatShah1511&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatShah1511&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatShah1511&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## Contribution Streak
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=AkshatShah1511&theme=tokyonight&hide_border=true" />
-
-
-</p>
-
----
-
-## Contribution Graph Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AkshatShah1511/AkshatShah1511/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
